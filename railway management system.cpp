@@ -3,7 +3,6 @@
 #include <string>
 using namespace std;
 
-// Structure to hold train details
 struct Train {
     int trainNumber;
     string trainName;
@@ -13,14 +12,12 @@ struct Train {
     string arrivalTime;
 };
 
-// Structure to hold user details
 struct User {
     string username;
     string password;
     bool isAdmin;
 };
 
-// Structure to hold ticket details
 struct Ticket {
     int ticketID;
     string passengerName;
@@ -28,7 +25,6 @@ struct Ticket {
     string seatNumber;
 };
 
-// Function prototypes
 void displayMenu();
 void addTrain(vector<Train>& trains);
 void viewTrains(const vector<Train>& trains);
@@ -89,7 +85,7 @@ int main() {
 }
 
 void displayMenu() {
-    cout << "\nRailway Management System" << endl;
+    cout << "\n<----------------------------Railway Management System------------------------------->" << endl;
     cout << "1. Register" << endl;
     cout << "2. Login" << endl;
     cout << "3. Add Train (Admin Only)" << endl;
