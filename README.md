@@ -32,20 +32,8 @@ Functional Requirements :
 •	Add, update, and delete station details.
 •	Manage platform allocation for trains.
 •	Display real-time train arrival and departure information at stations.
-6. Inventory and Resource Management
-•	Manage train inventory (e.g., seats, berths, coaches).
-•	Track and manage food and beverage supplies for onboard services.
-•	Monitor fuel and maintenance supplies for trains.
-7. Complaint and Feedback Management
-•	Allow passengers to submit complaints or feedback.
-•	Track and resolve complaints within a defined timeframe.
-•	Analyze feedback to improve services.
-8. Accessibility and Multi-Language Support
-•	Ensure the system is accessible to users with disabilities.
-•	Provide multi-language support for passengers and staff.
-9. Mobile Application Support
-•	Provide a mobile app for passengers to book tickets, check schedules, and receive notifications.
-•	Enable staff to access the system via mobile devices for on-the-go management.
+
+
 
   				
 Name of Student 		:	           SHEHARYAR SHAIKH
