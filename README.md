@@ -33,9 +33,7 @@ Functional Requirements :
 •	Manage platform allocation for trains.
 •	Display real-time train arrival and departure information at stations.
 
-
-
-  				
+ 				
 Name of Student 		:	           SHEHARYAR SHAIKH
 Student ID 			:	           24BSCS239 
 Discipline 			:	           COMPUTER SCIENCE 
